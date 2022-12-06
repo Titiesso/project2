@@ -1,0 +1,17 @@
+<html>
+
+<head>
+
+<title>Thierry!</title>
+
+<link rel="stylesheet" href="style.css">
+
+<meta name="Description" content="The elephant  may well be one of the world's cutest animals. Read more about elephants here!">
+
+<meta name="Keywords" content="elephant, mammal, lemurs are cute too">
+
+</head>
+
+Welcome to another try!
+
+</html>
